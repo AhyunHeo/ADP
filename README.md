@@ -1,5 +1,5 @@
 # ADP
-
+## 1. 
 
 ## 2. EDA
 1) Bar Plot
