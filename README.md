@@ -1,5 +1,5 @@
 # ADP
-## 1. 
+## 1. Data Handling
 
 ## 2. EDA
 1) Bar Plot
@@ -17,3 +17,9 @@
 4) 데이터 스케일링
 5) 차원 축소
 6) 데이터 불균형 문제 처리
+
+## 4. Machine Learning Process
+1) 성능평가 기법
+  1-1) 회귀분석 (MAE, MSE, RMSE, MSLE, MAPE)
+  1-2) 분류분석 (정확도, 혼동행렬, 정밀도/재현율, F1 Score, ROC 곡선, AUC 스코어)
+2) 기초 분석 프로세스 (ex.regression)
