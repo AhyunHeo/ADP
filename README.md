@@ -23,3 +23,9 @@
    1-1) 회귀분석 (MAE, MSE, RMSE, MSLE, MAPE)  
    1-2) 분류분석 (정확도, 혼동행렬, 정밀도/재현율, F1 Score, ROC 곡선, AUC 스코어)
 2) 기초 분석 프로세스 (ex.regression)
+
+### 4-1. Machine Learning - Supervised Learning(지도학습)
+  1) 단순선형회귀(Simple Linear Regression Model)  
+  2) 다항회귀(Polynomial Regression)
+
+### 4-2. Machine Learning - Unsupervised Learning(비지도학습)
