@@ -36,8 +36,8 @@
 2) 가설검정
 
 ## 7. Statistics Analysis
-1) t-test
-   1-1) One Sample t-test(일표본 t-검정)
-   1-2) Paired Sample t-test(대응표본 t-검정)
+1) t-test  
+   1-1) One Sample t-test(일표본 t-검정)  
+   1-2) Paired Sample t-test(대응표본 t-검정)  
    1-3) Independent Sample t-test(독립표본 t-test)
 2) ANOVA (분산분석)
