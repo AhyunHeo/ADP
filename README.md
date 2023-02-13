@@ -1,4 +1,4 @@
-# ADP
+# 1과목
 ## 1. Data Handling
 
 ## 2. EDA
@@ -31,6 +31,7 @@
 
 --- 
 
+# 2과목
 ## 6. Statistics Analysis Process
 1) 개념과 흐름
 2) 가설검정
