@@ -1,4 +1,4 @@
-# ADP
+# 1과목
 ## 1. Data Handling
 
 ## 2. EDA
@@ -24,8 +24,21 @@
    1-2) 분류분석 (정확도, 혼동행렬, 정밀도/재현율, F1 Score, ROC 곡선, AUC 스코어)
 2) 기초 분석 프로세스 (ex.regression)
 
-### 4-1. Machine Learning - Supervised Learning(지도학습)
-  1) 단순선형회귀(Simple Linear Regression Model)  
-  2) 다항회귀(Polynomial Regression)
+## 5. Machine Learning - Supervised Learning(지도학습)
+1) Simple Linear Regression Model(단순선형회귀)
+2) Polynomial Regression(다항회귀)
+3) Multiple Regression(다중회귀)
 
-### 4-2. Machine Learning - Unsupervised Learning(비지도학습)
+--- 
+
+# 2과목
+## 6. Statistics Analysis Process
+1) 개념과 흐름
+2) 가설검정
+
+## 7. Statistics Analysis
+1) t-test  
+   1-1) One Sample t-test(일표본 t-검정)  
+   1-2) Paired Sample t-test(대응표본 t-검정)  
+   1-3) Independent Sample t-test(독립표본 t-test)
+2) ANOVA (분산분석)
