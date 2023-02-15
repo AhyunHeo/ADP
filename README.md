@@ -41,4 +41,12 @@
    1-1) One Sample t-test(일표본 t-검정)  
    1-2) Paired Sample t-test(대응표본 t-검정)  
    1-3) Independent Sample t-test(독립표본 t-test)
-2) ANOVA (분산분석)
+2) ANOVA (분산분석)  
+   2-1) One-way ANOVA (일원배치 분산분석)  
+   2-2) Two-way ANOVA (이원배치 분산분석)
+3) chi-square test (교차분석)  
+   3-1) 적합도 검정  
+   3-2) 동질성 
+4) Linear Regression (선형 회귀분석)  
+   4-1) 단순 선형 회귀분석  
+   4-2) 다중 선형 회귀분석
