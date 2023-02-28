@@ -60,3 +60,6 @@
    5-2) 비계층적 군집분석(K-means, DBSCAN, 혼합분포)  
    
 >> 6) Association Analysis (연관분석)
+   - 보완필요, 다른 코드 참고...  
+
+>> 7) TimeSeries Analysis (시계열분석)
