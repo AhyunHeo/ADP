@@ -1,6 +1,4 @@
-```빅데이터분석기사``` 
-데이터 및 참고자료 출처 : https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr?resource=download
-- - - 
+
 # <b>1과목</b>
 > <b>1. Data Handling</b>
 
@@ -77,4 +75,5 @@
 
 
 <br><br><br><br>
-참고: https://github.com/ADPclass/ADP_book_ver01
+```빅데이터분석기사``` 데이터/참고자료 출처 : https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr?resource=download
+```ADP``` 참고자료 출처: https://github.com/ADPclass/ADP_book_ver01
